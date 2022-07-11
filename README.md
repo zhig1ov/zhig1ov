@@ -6,7 +6,7 @@
 * 😍 Фанатею от веб-разработк, потому что мне нравится создавать вещи, которые живут в интернете.
 * 😎 Люблю учиться, стремлюсь стать профессионалом и писать качественный код.
 
-## МОЙ СТЕК ТЕХНОЛОГИЙ:
+## МОЙ СТЕК ТЕХНОЛОГИЙ
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="60px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="60px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60px"></span>&nbsp;
@@ -20,7 +20,7 @@
 
 
 
-### **АКТИВНО ИЗУЧАЮ:**
+### АКТИВНО ИЗУЧАЮ
 <span><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="60px"></span>&nbsp;
 <span><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="60px"></span>&nbsp;
 <span><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="60px"></span>&nbsp;
