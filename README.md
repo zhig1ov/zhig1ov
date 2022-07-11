@@ -31,7 +31,6 @@
 <!-- [<img src="./svg/Linkedin.svg">]() -->
 [<img src="./svg/telegram.svg">](https://t.me/tmzlv)
 [<img src="./svg/mail.svg" width="90px" height="90px">](mailto:zhiglov.artem@yandex.com)
-[<img src="https://www.svgrepo.com/show/349554/vk.svg" width="90px" height="90px">](https://vk.com/zhig1ov)
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=zhig1ov&show_icons=true&bg_color=-45,0e1420,262c38&border_radius=15&border_color=2e3440&hide=stars&line_height=24&hide_border=true&theme=dark&cache_seconds=1800">
@@ -40,9 +39,9 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=zhig1ov&layout=compact&theme=dark">
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhig1ov&layout=compact&theme=dark" />
 </a>
-</div>
+</div >
 
-![codewars](https://www.codewars.com/users/zhig1ov/badges/small)
+<!-- ![codewars](https://www.codewars.com/users/zhig1ov/badges/small) -->
 
 <!--![Redux](/svg/redux.svg)
 ![TS](/svg/TS.svg)
